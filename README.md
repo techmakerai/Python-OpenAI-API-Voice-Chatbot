@@ -2,8 +2,6 @@ This repository includes a Python program that can call OpenAI's ChatGPT API to 
 
 You will need to install the following packages on your computer to run this code: 
 
-* openai   
-* speechrecognition   
-* pyttsx3   
-* pyaudio   
-* pygame   
+```console
+$ pip install SpeechRecognition, openai, pyttsx3, pyaudio, pygame
+```

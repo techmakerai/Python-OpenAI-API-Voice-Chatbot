@@ -6,10 +6,10 @@ https://youtu.be/kE95xA5jVWQ
 You will need to install the following packages on your computer to run this code: 
 
 ```console
-$ pip install speechrecognition openai pyttsx3 pyaudio pygame
+pip install speechrecognition openai pyttsx3 pyaudio pygame
 ```
 If you have Python 3.12 or newer, also install the "setuptools" package,    
 
 ```console
-$ pip install setuptools
+pip install setuptools
 ```

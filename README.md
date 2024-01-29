@@ -9,6 +9,7 @@ You will need to install the following packages on your computer to run this cod
 $ pip install speechrecognition openai pyttsx3 pyaudio pygame
 ```
 If you have Python 3.12 or newer, also install the "setuptools" package,    
+
 ```console
 $ pip install setuptools
-```console
+```

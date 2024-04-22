@@ -14,6 +14,7 @@ If you have Python 3.12 or newer, also install the "setuptools" package,
 pip install setuptools
 ```
 Then, you must set the API key from OpenAI as a system environment variable. If you rather want to use your API key in the Python program, then add it as, 
+
 ```python
 client = OpenAI(api_key="this is your API key")
 ```

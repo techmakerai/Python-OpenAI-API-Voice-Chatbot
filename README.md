@@ -13,8 +13,15 @@ If you have Python 3.12 or newer, also install the "setuptools" package,
 ```console
 pip install setuptools
 ```
-Then, you must set the API key from OpenAI as a system environment variable. If you rather want to use your API key in the Python program, then add it as, 
+Then, you must set the API key from OpenAI as a system environment variable. Here are the steps to set environment variable in Windows via GUI. 
 
+Step 1: Follow the video above to open the System Properties window and click on the Environment Variables button
+ 
+<img src="https://github.com/techmakerai/Python-OpenAI-API-Voice-Chatbot/blob/main/Step1.jpg" width="720"/>
+ 
+
+
+If you rather want to use your API key in the Python program, then add it as,      
 ```python
 client = OpenAI(api_key="this is your API key")
 ```

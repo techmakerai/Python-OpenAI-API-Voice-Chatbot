@@ -31,7 +31,7 @@ Step 2: To add a system-wide environment variable, click the "New…" button.
 
 <img src="https://github.com/techmakerai/Python-OpenAI-API-Voice-Chatbot/blob/main/step2.jpg" width="480"/>  
 
-Step 3: Enter the variable name as shown and the API key as the value in the New User Variable prompt and click OK.
+Step 3: Enter the variable name as shown and the API key as the value in the "New System Variable" window and click OK.
 
 <img src="https://github.com/techmakerai/Python-OpenAI-API-Voice-Chatbot/blob/main/step3.jpg" width="480"/>  
 

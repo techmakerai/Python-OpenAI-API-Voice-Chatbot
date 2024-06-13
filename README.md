@@ -37,7 +37,7 @@ Step 3: Enter the variable name as shown and the API key as the value in the New
 
 Step 3: Click OK.
 
-<img src="https://github.com/techmakerai/Python-OpenAI-API-Voice-Chatbot/blob/main/step4.jpg" width="480"/>  
+<img src="https://github.com/techmakerai/Python-OpenAI-API-Voice-Chatbot/blob/main/step4a.jpg" width="480"/>  
 
 Step 3: Click OK.
 

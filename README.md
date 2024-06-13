@@ -17,7 +17,7 @@ Then, you must set the API key from OpenAI as a system environment variable. Her
 
 Step 1: Follow the video above to open the System Properties window and click on the Environment Variables button
  
-<img src="https://github.com/techmakerai/Python-OpenAI-API-Voice-Chatbot/blob/main/Step1.jpg" width="720"/>
+<img src="https://github.com/techmakerai/Python-OpenAI-API-Voice-Chatbot/blob/main/step1.jpg" width="720"/>
  
 
 

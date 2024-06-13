@@ -14,7 +14,7 @@ If you have Python 3.12 or newer, also install the "setuptools" package,
 pip install setuptools
 ```
 
-To use the API key from OpenAI, you can add the key to the Python program or set it as a system environment variables in Windows. 
+To use the API key from OpenAI, you can add the key to the Python program or set it as a system environment variable in Windows. 
 
 If you want to use your OpenAI API key in the Python program, then add it as,      
 ```python

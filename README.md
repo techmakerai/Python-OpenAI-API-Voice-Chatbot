@@ -21,17 +21,17 @@ If you want to use your OpenAI API key in the Python program, then add it as,
 client = OpenAI(api_key="this is your API key")
 ```
 
-If you would like to set the API key from OpenAI as a system environment variable. Here are the steps to set environment variables in Windows via GUI. 
+If you want to set the API key from OpenAI as a system environment variable. Here are the steps to do so in Windows via GUI. 
 
-Step 1: Follow the video above to open the System Properties window and click on the Environment Variables button
+Step 1: Follow the video above to open the System Properties window and click on the "Environment Variables" button
  
 <img src="https://github.com/techmakerai/Python-OpenAI-API-Voice-Chatbot/blob/main/step1.jpg" width="480"/>
  
-Step 2: To add a system-wide environment variables, click the New… button.    
+Step 2: To add a system-wide environment variable, click the "New…" button.    
 
 <img src="https://github.com/techmakerai/Python-OpenAI-API-Voice-Chatbot/blob/main/step2.jpg" width="480"/>  
 
-Step 3: Enter the variable name and value in the New User Variable prompt and click OK.
+Step 3: Enter the variable name as shown and the API key as the value in the New User Variable prompt and click OK.
 
 <img src="https://github.com/techmakerai/Python-OpenAI-API-Voice-Chatbot/blob/main/step3.jpg" width="480"/>  
 
